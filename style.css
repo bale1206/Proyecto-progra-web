@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+    font-weight: bold;
+}
+
+.paragraph{
+    text-align: center;
+    font-weight: lighter;
+}
+
+.list{
+    text-align: left;
+}
+
+.image1 img{
+    width: 200px;
+
+
+}
+
+.image2 img{
+    width: 200px;
+}
+
