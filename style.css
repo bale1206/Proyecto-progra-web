@@ -22,3 +22,29 @@ body{
     width: 200px;
 }
 
+.image3 img {
+    display: flex;
+    margin-left: 5px;;
+    margin-top: 0;
+    width: 30%;
+  }
+
+.image4 img {
+    display: flex;
+    margin-left: 5px;
+    margin-top: 0;
+    width: 30%;
+  }
+
+  .listagatos{
+    display: flex;
+    gap: 1rem;
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .listagatos li{
+    flex-shrink: 1 ;
+  }
